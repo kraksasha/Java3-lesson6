@@ -48,4 +48,5 @@ public class TestJunit {
     public void test4expectedOneAndFour(){
         Assertions.assertFalse(testMethod.expectedOneAndFour(new int[]{6,2,4,3,2}));
     }
+
 }
